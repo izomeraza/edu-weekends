@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+> Обмен информацией — цемент, скрепляющий общество. Общество — это не просто множество индивидуумов для раздоров и воспроизведения себе подобных, общество — это совокупность индивидуумов, тесно связанных между собой и образующих один общий организм. Общество обладает своей собственной памятью, гораздо более ёмкой и разносторонней, чем память любого входящего в него члена.
 
-You can use the [editor on GitHub](https://github.com/izomeraza/data-science-moscow/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> Норберт Винер «Я - математик»
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Мы — микроклуб тех, кто любит математику и учится анализу данных. 
 
-### Markdown
+Собираемся каждые сб и вс в 16:00 в здании Кудринской высотки и проходим курсы.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Добавляйтесь в группу в Telegram: [https://t.me/data_science_moscow](https://t.me/data_science_moscow)
 
-```markdown
-Syntax highlighted code block
+Если вы хотите прийти, но не уверены, подойдёт ли вам наш формат, наши курсы, мы или у вас есть вопросы, напишите мне в [telegram](https://t.me/llnkor), (facebook)(http://facebook.com/izomeraza), [на почту](mailto:150m3raz4@gmail.com) или, в конце концов, на телефон: +7 965 217-19-06.
 
-# Header 1
-## Header 2
-### Header 3
+# Как нас найти
 
-- Bulleted
-- List
+Мы чаще всего собираемся в Кудринской высотке, в помещении шахматного клуба в подвальном ярусе. Это выглядит не как этаж, а как фундамент с парком под высоткой — но в нём есть офисы и кафе. Вам нужно подойти со стороны Новинского Пассажа, увидеть магазин "Вина Тосканы" — и ровно напротив него вы увидите черную дверь с небольшой прямоугольной вывеской шахматного клуба. Она иногда не горит. 
 
-1. Numbered
-2. List
+Если вы видите вход в почту — вам надо спуститься уровнем ниже. Если что, звоните или пишите в чат, я вас встречу.
 
-**Bold** and _Italic_ and `Code` text
+# Область наших интересов
 
-[Link](url) and ![Image](src)
-```
+— Теория вероятностей, теория графов, комбинаторика; 
+— Общая алгебра, линейная алгебра и аналитическая геометрия; 
+— Математическая статистика;
+— Методы оптимизации;
+— Дискретный анализ.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/izomeraza/data-science-moscow/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+— Python и C++;
+— Теория и практика машинного обучения;
+— Базы данных и SQL.
