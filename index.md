@@ -39,4 +39,5 @@
 
 ## Links:
 https://vas3k.ru/blog/machine_learning/
+
 https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks 
