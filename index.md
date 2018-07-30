@@ -35,9 +35,13 @@
 
 ![map](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/25395734_1536830019746874_98581397229324447_n.jpg?_nc_cat=0&oh=685b7b5a5a966db1ceeb1eeb3c28cb18&oe=5BBD4395)
 
-Всем спасибо, что вы любите машинное обучение и математику.
+Cпасибо, что любите машинное обучение и математику!
 
 ## Links:
-https://vas3k.ru/blog/machine_learning/
+[https://vas3k.ru/blog/machine_learning/](https://vas3k.ru/blog/machine_learning/)
 
-https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks 
+Замечательная вводная статья на русском о машинном обучении.
+
+[https://jakevdp.github.io/PythonDataScienceHandbook/index.html](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
+
+Ноутбуки для начинающих.
