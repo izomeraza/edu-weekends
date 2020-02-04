@@ -3,9 +3,6 @@ docs:
   
 - title: O нас
   url: index.html
-  
-- title: Конспекты
-  url: compendia.html
 
 - title: Доп. материалы
   url: materials.html
