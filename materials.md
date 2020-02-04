@@ -10,6 +10,7 @@ title: Материалы для занятий
 - [Программирование в Linux с нуля](https://www.opennet.ru/docs/RUS/zlp/index.html)
 
 ### Дискретка
+- [Конспект лекций Райгородского по комбинаторике и теории чисел](https://mipt.ru/diht/students/courses/combinatorics_and_number_theory.pdf)
 - [Кафедра дискретной математики ФИВТ МФТИ: матлогика и теория алгоритмов](http://ru.discrete-mathematics.org/?page_id=3732)
 - Н. К. Верещагин, А. Шень. Лекции по математической логике и теории алгоритмов:
   - [Часть 1. Начала теории множеств.](https://www.mccme.ru/free-books/shen/shen-logic-part1-2.pdf)
