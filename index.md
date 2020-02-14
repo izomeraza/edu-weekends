@@ -2,9 +2,9 @@
 Предлагаю собраться 16-го февраля в 14 часов дня и дальше идти по курсу современной [комбинаторики от Райгородского](https://www.coursera.org/learn/modern-combinatorics/home/week/4). Мы остановились на середине четвертой недели курса, на начале раздела "Формула обращения Мёбиуса на частично упорядоченном множестве" (см. ссылку). Вот его предлагаю и разобрать.
 
 &nbsp;
-
-{% video https://github.com/izomeraza/edu-weekends/blob/master/assets/t_video5348271075740353700.mp4 %}
-
+<video controls>
+  <source src="https://github.com/izomeraza/edu-weekends/blob/master/assets/t_video5348271075740353700.mp4" type="video/mp4">
+</video>
 &nbsp;
 
 # Что это
