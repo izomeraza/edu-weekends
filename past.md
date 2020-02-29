@@ -1,8 +1,11 @@
+### λ #105 в четверг / Feb 27, 2020
+- Решили финалку четвёртой недели [современной комбинаторики](https://www.coursera.org/learn/modern-combinatorics/home/week/4).
+
 ### λ #104 в воскресенье / Feb 23, 2020
 - Послушали пятую неделю до конца [современной комбинаторики Райгородского](https://www.coursera.org/learn/modern-combinatorics/home/week/5), про диаграммы Юнга. Осталось решить финальные задачи за 4 и 5 недели.
 
 ### λ #103 в четверг / Feb 20, 2020
-Порешали задачки из https://drive.google.com/file/d/1REhbBdr9pK2b3LgyEnPkR76v4UqG27CU/view?usp=sharing и https://drive.google.com/file/d/1SIAz1gQervujNjebtEqGTubY2jTSA3Yg/view?usp=sharing
+- Порешали задачки из https://drive.google.com/file/d/1REhbBdr9pK2b3LgyEnPkR76v4UqG27CU/view?usp=sharing и https://drive.google.com/file/d/1SIAz1gQervujNjebtEqGTubY2jTSA3Yg/view?usp=sharing
 
 ### λ #102 в воскресенье / Feb 16, 2020
 _Комбинаторика_
