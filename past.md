@@ -1,3 +1,8 @@
+### λ #106 в воскресенье / Mar 1, 2020
+- Решила дополнительные задачи четвёртой недели [современной комбинаторики](https://www.coursera.org/learn/modern-combinatorics/quiz/G0iBG/dopolnitiel-nyie-zadachi)
+- Решила финальный тест к [неделе 5](https://www.coursera.org/learn/modern-combinatorics/exam/IDIKo/tiest-k-niedielie-5).
+- Решила [дополнительные задачи к неделе 5](https://www.coursera.org/learn/modern-combinatorics/exam/rdCoj/zadachi-k-niedielie-5).
+
 ### λ #105 в четверг / Feb 27, 2020
 - Решили финалку четвёртой недели [современной комбинаторики](https://www.coursera.org/learn/modern-combinatorics/home/week/4).
 
