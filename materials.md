@@ -49,5 +49,10 @@ title: Материалы для занятий
 - [https://mathoverflow.net/](https://mathoverflow.net/)
 - [http://dxdy.ru/](http://dxdy.ru/)
 
+### Теоркат & λ-исчисление
+- https://www.logicmatters.net/categories/
+- http://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=28&confid=664
+
+
 ### Other links
 - [Рекомендованные HSE онлайн курсы](https://www.hse.ru/ba/ami/moocs)
