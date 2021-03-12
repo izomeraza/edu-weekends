@@ -3,7 +3,7 @@
 
 Следующий созвон предположительно в воскресенье, 14 марта, в районе 17 часов.
 
-![black box animation](https://raw.githubusercontent.com/izomeraza/edu-weekends/master/assets/blackbox.gif)
+![black box animation](https://raw.githubusercontent.com/izomeraza/edu-weekends/master/assets/blackbox_256.gif)![black box animation](https://raw.githubusercontent.com/izomeraza/edu-weekends/master/assets/blackbox_256.gif)
 
 # Что это
 Созваниваемся маленькой группой желающих (всех, кто хочет и готов в то время, про которое договорились) и проходим онлайн-курсы по математике, CS, DS. Что конкретно проходим, выбираю я, но стараюсь согласовывать под интересы всех.
