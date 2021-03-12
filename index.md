@@ -5,7 +5,7 @@
 
 
 &nbsp;
-![black box animation](https://github.com/izomeraza/edu-weekends/blob/master/assets/blackbox.gif)
+![black box animation](https://raw.githubusercontent.com/izomeraza/edu-weekends/master/assets/blackbox.gif)
 &nbsp;
 
 &nbsp;
